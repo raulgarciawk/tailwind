@@ -24,6 +24,8 @@ nav-menu:
   permalink: pop
 - text: Blog
   permalink: blog
+- text: Cards
+  permalink: cards.html
 
 # use false to turn off any social media links
 twitter: https://twitter.com/
